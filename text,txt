@@ -1,0 +1,27 @@
+E325: ATTENTION
+Found a swap file by the name "/d/MERN-FullStack/03_Practice/git-demo/.git/.MERG
+E_MSG.swp"
+          owned by: Rikza   dated: Sun Aug 02 23:25:45 2026
+         file name: /d/MERN-FullStack/03_Practice/git-demo/.git/MERGE_MSG
+          modified: YES
+         user name: Rikza   host name: Rikza
+        E325: ATTENTION
+Found a swap file by the name "/d/MERN-FullStack/03_Practice/git-demo/.git/.MERG
+E_MSG.swp"
+          owned by: Rikza   dated: Sun Aug 02 23:25:45 2026
+         file name: /d/MERN-FullStack/03_Practice/git-demo/.git/MERGE_MSG
+          modified: YES
+         user name: Rikza   host name: Rikza
+        process ID: 1144
+While opening file "/d/MERN-FullStack/03_Practice/git-demo/.git/MERGE_MSG"
+             dated: Mon Aug 03 14:40:59 2026
+      NEWER than swap file!
+
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r /d/MERN-FullStack/03_Practice
+/git-demo/.git/MERGE_MSG"
+    to recover the changes (see ":help recovery").
+-- More --
