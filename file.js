@@ -1,5 +1,4 @@
 console.log("hello!");
-<<<<<<< HEAD
 alert("Hello World!!!");
 async function name(hello) {
     console.log("welcome")
@@ -19,6 +18,3 @@ alert("Hello World!!!");
 async function name(hello) {
     console.log("welcome!")
 }
-=======
-alert("Hello World!!!");
->>>>>>> 143e9df55ca2ac73018cd058d334f2c870b02e8b
